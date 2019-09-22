@@ -9,6 +9,6 @@
    split_sentence1 = sentence1.split(" ")
    reversed_sentence1 = split_sentence1.each do |word|
    puts word.reverse
-   end
-   reversed_sentence1.join(" ")
- end
+#   end
+#   reversed_sentence1.join(" ")
+# end
